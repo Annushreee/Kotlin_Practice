@@ -1,0 +1,6 @@
+fun main() {
+    println("What's your name?")
+    val name = readln() // takes input 
+    println("Hello, $name!")
+}
+
